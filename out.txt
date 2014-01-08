@@ -1,0 +1,170 @@
+case 1: n = 6823
+StartMaxMin -> 
+Max = 1061049318 Min = 54286
+Time used: 26
+SecondMaxMin -> 
+Max = 1061049318 Min = 54286
+Time used: 141
+-----------------As for int numbers, Second/Start = 5.42308
+StartMaxMin -> 
+Max = 999912149 Min = 1000315318
+Time used: 699
+SecondMaxMin -> 
+Max = 999912149 Min = 1000315318
+Time used: 1391
+-----------------As for strings, Second/Start = 1.98999
+
+
+case 2: n = 9255
+StartMaxMin -> 
+Max = 1060896838 Min = 250891
+Time used: 43
+SecondMaxMin -> 
+Max = 1060896838 Min = 250891
+Time used: 236
+-----------------As for int numbers, Second/Start = 5.48837
+StartMaxMin -> 
+Max = 999919740 Min = 1000062666
+Time used: 953
+SecondMaxMin -> 
+Max = 999919740 Min = 1000062666
+Time used: 1459
+-----------------As for strings, Second/Start = 1.53095
+
+
+case 3: n = 1284
+StartMaxMin -> 
+Max = 1058837281 Min = 139496
+Time used: 7
+SecondMaxMin -> 
+Max = 1058837281 Min = 139496
+Time used: 30
+-----------------As for int numbers, Second/Start = 4.28571
+StartMaxMin -> 
+Max = 999624202 Min = 1001072593
+Time used: 135
+SecondMaxMin -> 
+Max = 999624202 Min = 1001072593
+Time used: 212
+-----------------As for strings, Second/Start = 1.57037
+
+
+case 4: n = 6448
+StartMaxMin -> 
+Max = 1061091743 Min = 62838
+Time used: 25
+SecondMaxMin -> 
+Max = 1061091743 Min = 62838
+Time used: 135
+-----------------As for int numbers, Second/Start = 5.4
+StartMaxMin -> 
+Max = 999401158 Min = 1000062456
+Time used: 689
+SecondMaxMin -> 
+Max = 999401158 Min = 1000062456
+Time used: 1598
+-----------------As for strings, Second/Start = 2.3193
+
+
+case 5: n = 4868
+StartMaxMin -> 
+Max = 1061027880 Min = 222698
+Time used: 20
+SecondMaxMin -> 
+Max = 1061027880 Min = 222698
+Time used: 99
+-----------------As for int numbers, Second/Start = 4.95
+StartMaxMin -> 
+Max = 999805369 Min = 1000163430
+Time used: 436
+SecondMaxMin -> 
+Max = 999805369 Min = 1000163430
+Time used: 684
+-----------------As for strings, Second/Start = 1.56881
+
+
+case 6: n = 986
+StartMaxMin -> 
+Max = 1060802640 Min = 620936
+Time used: 5
+SecondMaxMin -> 
+Max = 1060802640 Min = 620936
+Time used: 24
+-----------------As for int numbers, Second/Start = 4.8
+StartMaxMin -> 
+Max = 998761180 Min = 1003001078
+Time used: 152
+SecondMaxMin -> 
+Max = 998761180 Min = 1003001078
+Time used: 223
+-----------------As for strings, Second/Start = 1.46711
+
+
+case 7: n = 9898
+StartMaxMin -> 
+Max = 1061089646 Min = 20404
+Time used: 60
+SecondMaxMin -> 
+Max = 1061089646 Min = 20404
+Time used: 291
+-----------------As for int numbers, Second/Start = 4.85
+StartMaxMin -> 
+Max = 999875968 Min = 1000065653
+Time used: 1673
+SecondMaxMin -> 
+Max = 999875968 Min = 1000065653
+Time used: 2810
+-----------------As for strings, Second/Start = 1.67962
+
+
+case 8: n = 4836
+StartMaxMin -> 
+Max = 1060796355 Min = 266163
+Time used: 21
+SecondMaxMin -> 
+Max = 1060796355 Min = 266163
+Time used: 110
+-----------------As for int numbers, Second/Start = 5.2381
+StartMaxMin -> 
+Max = 999976570 Min = 1000084948
+Time used: 512
+SecondMaxMin -> 
+Max = 999976570 Min = 1000084948
+Time used: 772
+-----------------As for strings, Second/Start = 1.50781
+
+
+case 9: n = 6286
+StartMaxMin -> 
+Max = 1060848533 Min = 76194
+Time used: 32
+SecondMaxMin -> 
+Max = 1060848533 Min = 76194
+Time used: 155
+-----------------As for int numbers, Second/Start = 4.84375
+StartMaxMin -> 
+Max = 99991822 Min = 1000315659
+Time used: 988
+SecondMaxMin -> 
+Max = 99991822 Min = 1000315659
+Time used: 1822
+-----------------As for strings, Second/Start = 1.84413
+
+
+case 10: n = 6487
+StartMaxMin -> 
+Max = 1061042227 Min = 450773
+Time used: 28
+SecondMaxMin -> 
+Max = 1061042227 Min = 450773
+Time used: 155
+-----------------As for int numbers, Second/Start = 5.53571
+StartMaxMin -> 
+Max = 999878707 Min = 1000222744
+Time used: 591
+SecondMaxMin -> 
+Max = 999878707 Min = 1000222744
+Time used: 1079
+-----------------As for strings, Second/Start = 1.82572
+
+
