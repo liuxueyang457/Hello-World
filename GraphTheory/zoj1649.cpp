@@ -26,6 +26,7 @@ TASK: zoj1649.cpp
 #include <cassert>
 #include <ctime>
 #include <iterator>
+#include <climits>
 const int INF = 0x3f3f3f3f;
 const int dir[8][2] = {{-1,0},{1,0},{0,-1},{0,1},{-1,-1},{-1,1},{1,-1},{1,1}};
 using namespace std;
